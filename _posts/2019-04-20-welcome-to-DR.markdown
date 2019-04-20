@@ -1,25 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-03-22 12:06:40 -0400
-categories: jekyll update
+title:  "Distinguished Revolver!"
+date:   2019-04-20 12:06:40 -0400
+excerpt: Many
+categories:
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Many Precision Pistol shooters have a hard time making accurate .38 Special 158
+gr. lead ammunition for the NRA Distinguished Revolver event. What powder, what
+case, what bullet, etc. are all questions that frequently arise in the course
+of building an accurate load. To make matters even more difficult, not all
+revolvers are created equal, and so what works in one may very well not work in
+another, it is often said.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Strange, though, that many believe factory ammunition
+to be a great source of accuracy, which immediately goes against all lore and
+narrative of most reloading shooters; i.e. that they alone can make better and
+more accurate ammunition than the factory.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Here, I'll attempt to dispel myths, provide load data, and provide evidence
+for what appear to be significantly well understood and broadly accepted
+accurate loads to help cut load development time down considerably.
