@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  To help reduce the amount of load development time necessary for making
  affordable NRA Distinguished Revolver ammunition for either practice or
  competition.
-baseurl: "index.md" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  w4ti
