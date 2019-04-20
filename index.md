@@ -5,7 +5,7 @@
 layout: home
 ---
 Many Precision Pistol shooters have a hard time making accurate .38 Special 158
-gr. lead ammunition for the NRA Distinguished Revolver event. What powder, what
+gr lead ammunition for the NRA Distinguished Revolver event. What powder, what
 case, what bullet, etc. are all questions that frequently arise in the course
 of building an accurate load. To make matters even more difficult, not all
 revolvers are created equal, and it is often said that
