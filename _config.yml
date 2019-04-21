@@ -27,7 +27,7 @@ github_username:  w4ti
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 # plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
