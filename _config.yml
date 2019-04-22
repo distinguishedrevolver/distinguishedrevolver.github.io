@@ -27,7 +27,11 @@ github_username:  w4ti
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: jekyll-theme-minima
+=======
+theme: jekyll-theme-minimal
+>>>>>>> 8add5ff34c2adda246128992eb15d7b2ffa23ae7
 # plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
