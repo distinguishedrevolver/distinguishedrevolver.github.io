@@ -9,8 +9,8 @@ Many Precision Pistol shooters have a hard time making accurate .38 Special 158
 gr. lead ammunition for the NRA Distinguished Revolver event. What powder, what
 case, what bullet, etc. are all questions that frequently arise in the course
 of building an accurate load. To make matters even more difficult, not all
-revolvers are created equal, and so what works in one may very well not work in
-another, it is often said.
+revolvers are created equal, and it is often said that
+what works in one may very well not work in another.
 
 Strange, though, that many believe factory ammunition
 to be a great source of accuracy, which immediately goes against all lore and

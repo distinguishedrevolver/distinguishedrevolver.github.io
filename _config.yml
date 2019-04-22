@@ -20,14 +20,14 @@ description: >- # this means to ignore newlines until "baseurl:"
  affordable NRA Distinguished Revolver ammunition for either practice or
  competition.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://distinguishedrevolver.com" # the base hostname & protocol for your
+url: "https://www.distinguishedrevolver.com" # the base hostname & protocol for your
 # site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  w4ti
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minima
 # plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
