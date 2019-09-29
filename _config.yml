@@ -16,7 +16,7 @@
 title: Distinguished Revolver
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
- To help reduce the amount of load development time necessary for making
+ To share load development data in order to reduce the time necessary for making
  affordable NRA Distinguished Revolver ammunition for either practice or
  competition.
 baseurl: "" # the subpath of your site, e.g. /blog
