@@ -24,7 +24,8 @@ url: "https://www.distinguishedrevolver.com" # the base hostname & protocol for 
 # site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  distinguishedrevolver
-
+# Google Analytics
+google_analytics: UA-157566353-1
 # Build settings
 markdown: kramdown
 theme: minima
