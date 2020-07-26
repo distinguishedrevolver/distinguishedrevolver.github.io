@@ -4,20 +4,13 @@
 
 layout: page
 ---
-Many Precision Pistol shooters have a hard time making accurate .38 Special 158
-gr lead ammunition for the NRA Distinguished Revolver, and should you make it to
-National Matches at Camp Perry, the Harry Reeves event if you use that event
-as a warm up for "DR." What powder, what case, what bullet, etc. are all
-questions that frequently arise in the course of building an
-accurate load. To make matters even more difficult, not all
-revolvers are created equal, and it is often said that
-what works in one may very well not work in another.
+Many Precision Pistol shooters report having a hard time making accurate .38 Special 158 gr. lead ammunition in order to practice for, and compete in, the NRA Distinguished Revolver event. The rules previously (before 2018 or so) specified "lead ammunition only," but now the rules don't enumerate anything more than:
 
-Strange, though, that many believe factory ammunition
-to be a great source of accuracy, which immediately goes against all lore and
-narrative of most shooters who reload; i.e. that they alone can make better and
-more accurate ammunition than the factory.
+"3.3 (e)  Ammunition-  Any  safe  .38  caliber  ammunition  using  the  158 grain round nose or Semi-Wadcutter bullet only."
 
-Here, I'll attempt to dispel myths, provide load data, and provide evidence
-for what appear to be significantly well understood and broadly accepted
-accurate loads to help cut load development time down considerably.
+With the rule change, it is presumably possible to now use a jacketed bullet; the idea that more accuracy could be achieved in doing so. Regardless of the rule change & ambiguity, this site is only concerned with lead bullets, swaged or cast.  
+
+What powder, what case, what bullet, etc. are all questions that frequently arise in the course of building an accurate load. To make matters even more difficult, not all revolvers are created equal, and it is often said that what works in one may very well not work in another. Lastly, some revolvers just struggle to shoot, no matter how much you coax it.
+
+Here, I'll attempt to dispel myths, share load data, and provide evidence
+for what appear to be accurate loads to help cut load your development time down considerably.
