@@ -8,7 +8,7 @@ Many Precision Pistol shooters report having a hard time making accurate .38 Spe
 
 "3.3 (e)  Ammunition-  Any  safe  .38  caliber  ammunition  using  the  158 grain round nose or Semi-Wadcutter bullet only."
 
-With the rule change, it is presumably possible to now use a jacketed bullet; the idea that more accuracy could be achieved in doing so. Regardless of the rule change & ambiguity, this site is only concerned with lead bullets, swaged or cast.  
+With the rule change, it is presumably possible to now use a jacketed bullet; the idea being that more accuracy could be achieved in doing so. Regardless of the rule change & ambiguity, this site is only concerned with lead bullets, swaged or cast.  
 
 What powder, what case, what bullet, etc. are all questions that frequently arise in the course of building an accurate load. To make matters even more difficult, not all revolvers are created equal, and it is often said that what works in one may very well not work in another. Lastly, some revolvers just struggle to shoot, no matter how much you coax it.
 
