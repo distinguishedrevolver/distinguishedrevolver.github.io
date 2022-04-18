@@ -3,7 +3,7 @@ layout: page
 permalink: /load_data/
 ---
 
-#NRA Distinguished Revolver Loads 
+# NRA Distinguished Revolver Loads
 
 | Powder             | Powder Charge (grains) | Primer          | Bullet         | Bullet Type | Case     | Average Velocity (fps) | Mean Group Radius | Notes                                      |
 |--------------------|------------------------|-----------------|----------------|-------------|----------|------------------------|-------------------|--------------------------------------------|
