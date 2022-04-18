@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Load Data
 permalink: /load_data/
 ---
 
