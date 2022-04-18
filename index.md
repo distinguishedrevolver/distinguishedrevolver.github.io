@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-Many Precision Pistol shooters report having a hard time making accurate .38 Special 158 gr. lead ammunition in order to practice for, and compete in, the NRA Distinguished Revolver & and the new (2022) CMP Service Revolver event. The NRA rules previously (before 2018 or so) specified "lead ammunition only," however, now the rules don't enumerate anything more than:
+Many Precision Pistol shooters report having a hard time making accurate .38 Special 158 gr. lead ammunition in order to practice for, and compete in, the NRA Distinguished Revolver and the new (2022) CMP Service Revolver event. The NRA rules previously (before 2018 or so) specified "lead ammunition only," however, now the rules don't enumerate anything more than:
 
 "3.3 (e)  Ammunition -  Any  safe  .38  caliber  ammunition  using  the  158 grain round nose or Semi-Wadcutter bullet only."
 

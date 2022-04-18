@@ -9,3 +9,5 @@ permalink: /load_data/
 | Accurate Arms No.2 | 3.6                    | Remington 1 1/2 | Magnus No. 517 | Swaged LRN  | Starline |           705          |                   | First 6 point leg obtained with this load. |
 | W231/HP-38         | 3.8                    | CCI 550         | Magnus No. 503 | Cast SWC    | Starline |                        |                   |                                            |
 | Titegroup          | 3.5                    | CCI 550         | Magnus No. 503 | Cast SWC    | Starline |                        |                   |                                            |
+
+# CMP Service Revolver Loads
