@@ -16,8 +16,8 @@
 title: Distinguished Revolver
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
- To share load development data in order to make accurate NRA Distinguished
- Revolver ammunition for either practice or competition.
+ To share information about revolvers and load data to prepare the competitor
+ for NRA Distinguished Revolver or CMP Service Revolver events.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.distinguishedrevolver.com" # the base hostname & protocol for your
 # site, e.g. http://example.com
