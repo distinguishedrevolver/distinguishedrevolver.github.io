@@ -14,8 +14,8 @@ permalink: /load_data/
 
 # CMP Service Revolver Loads
 
-| Powder     | Powder Charge (grains) | Primer  | Bullet         | Bullet Type | Case     | Average Velocity (fps) | Mean Group Radius | Notes                                      |
-|------------|------------------------|---------|----------------|-------------|----------|------------------------|-------------------|--------------------------------------------|
-| W231/HP-38 | 3.5                    | CCI 550 | Magnus No. 501 | Cast DEWC   | Starline |                        |                   | First 6 point leg obtained with this load. |
-| WST        | 2.7                    | CCI 500 | Magnus No. 514 | Swaged HBWC | Starline |                        |                   |                                            |
-|            |                        |         |                |             |          |                        |                   |                                            |
+| Powder     | Powder Charge (grains) | Primer  | Bullet         | Bullet Type | Case     | Average Velocity (fps) | Mean Group Radius | Notes |
+|------------|------------------------|---------|----------------|-------------|----------|------------------------|-------------------|-------|
+| W231/HP-38 | 3.5                    | CCI 550 | Magnus No. 501 | Cast DEWC   | Starline |                        |                   |       |
+| WST        | 2.7                    | CCI 500 | Magnus No. 514 | Swaged HBWC | Starline |                        |                   |       |
+|            |                        |         |                |             |          |                        |                   |       |
