@@ -9,7 +9,7 @@ Additionally, he is a CMP Distinguished 22, Service Pistol, Service Revolver and
 Jason, having the heart of both a true competitor and teacher, was kind enough to video, in profile, his technique for shooting timed and rapid strings using his revolver. The video is below:
 
 <video width="500" height="300" controls>
-<source src="/assets/video.mp4" type="video/mp4">
+<source src="https://github.com/distinguishedrevolver/distinguishedrevolver.github.io/assets/56051477/e54005f7-ffc4-4e1a-a249-655bfa0bdea0" type="video/mp4">
 </video>
 
 <br>
