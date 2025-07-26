@@ -29,6 +29,7 @@ google_analytics: UA-157566353-1
 markdown: kramdown
 theme: minima
 show_excerpts: true
+excerpt_separator: "<!--more-->"
 # plugins:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

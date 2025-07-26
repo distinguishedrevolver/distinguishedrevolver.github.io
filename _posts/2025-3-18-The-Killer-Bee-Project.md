@@ -8,7 +8,7 @@ As a result of the wide latitude in the CMP rules, I started working on what I h
 
 1. Be accurate.
 2. Be (very) low-recoil.
-3. Appropriate for new shooters.
+3. Be appropriate for new shooters.
 
 In general, none of these goals are surprising. The first item is the de facto standard for choosing your ammunition. The next two items, while certainly not necessary, are "nice to haves." My interest in the second two stems from not only the fact that juniors and competitors with joint damage, strength, or medical issues would appreciate having a low recoil load to practice and compete with; but also would potentially make it possible for them to compete in the first place. Another benefit from low recoiling loads is that they give the shooter a bit more opportunity to see the sights during firing, which helps shot calling development.
 
@@ -22,7 +22,7 @@ As the initial work on the experiment got underway, which began by choosing the 
 
 You are probably wondering about the reason for the initial selection of the 38 Short Colt case- and the answer is simple, though two-fold:
 
-1) There is the question of what sort of service ammunition was available for issue to soldiers for their service revolvers. One resource, the field manual [FM 23-35 Pistols and Revolvers](https://babel.hathitrust.org/cgi/pt?id=uc1.a0004901344&seq=1), indicates the availability of 38 Short Colt ammunition with either 120 or 130 grain bullets to those soldiers who were issued the 38 Colt's Detective Special. How many of either the ammunition or revolver that would have been available for issue is another matter entirely. And then there is the question, "for what purpose," would 38 Short Colt ammunition be issued for? Training/low recoil seems a likely reason. What doesn't seem likely is that the 38 Short Colt ammunition was leftover from when the Colt Navy revolvers had been issued after the Civil War. And also, strangely, there is no spot on the list for the 38 Long Colt, which was the revolver round up to, and famously used in, the Philippine War at the turn of the century. In any event, the 38 Short Colt was ammunition that have been issued to soldiers around 1960, putting use of this round well into the modern age.
+1) There is the question of what sort of service ammunition was available for issue to soldiers for their service revolvers. One resource, the field manual [FM 23-35 Pistols and Revolvers](https://babel.hathitrust.org/cgi/pt?id=uc1.a0004901344&seq=1), indicates the availability of 38 Short Colt ammunition with either 120 or 130 grain bullets to those soldiers who were issued the 38 Colt's Detective Special. How many of either the ammunition or revolver that would have been available for issue is another matter entirely. And then there is the question, "for what purpose," would 38 Short Colt ammunition be issued for? Training/low recoil seems a likely reason. What doesn't seem likely is that the 38 Short Colt ammunition was leftover from when the Colt Navy revolvers had been issued after the Civil War. And also, strangely, there is no spot on the list for the 38 Long Colt, which was the revolver round up to, and famously used in, the Philippine War at the turn of the century. In any event, the 38 Short Colt was ammunition that could have been issued to soldiers around 1960, putting use of this round well into the modern age.
 
 ![List of 38 caliber rounds available for issue in 1960](/assets/FM23.35.png)
 
