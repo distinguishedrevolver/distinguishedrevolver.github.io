@@ -1,0 +1,39 @@
+/* Style for the navigation container */
+.post-navigation-by-tag {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2rem;
+  padding: 1rem;
+  border-top: 1px solid #eee;
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 0;
+}
+
+/* Style for the individual links */
+.post-navigation-by-tag .nav-link {
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+/* Hover effect for the links */
+.post-navigation-by-tag .nav-link:hover {
+  color: #007bff; /* Example hover color */
+}
+
+/* Specific styling for the "Previous" link */
+.post-navigation-by-tag .previous-post-link {
+  /* You can add specific styles here if needed */
+}
+
+/* Specific styling for the "Next" link */
+.post-navigation-by-tag .next-post-link {
+  /* You can add specific styles here if needed */
+}
+
+/* Added style for the post content to create space below the bar */
+.post-content {
+  margin-top: 2rem;
+}

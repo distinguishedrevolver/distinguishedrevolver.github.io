@@ -8,6 +8,8 @@ By sheer luck, the shooters assembled were invited to an impromptu "All Things R
 
 When these guys talk, it pays to listen.
 
+<!--more-->
+
 Byrd shared his tips on what items to be on the lookout for when either purchasing a new-to-you revolver, or tests you might perform when checking your own equipment. In what follows, any errors or completeness issues are mine- could only take notes so fast.
 
 In no certain order, examine the following:  

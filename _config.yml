@@ -28,6 +28,13 @@ google_analytics: UA-157566353-1
 # Build settings
 markdown: kramdown
 theme: minima
+# Minima settings
+minima:
+  skin: dark # or your preferred skin
+  date_format: "%b %-d, %Y"
+  # Other settings...
+  custom_css:
+    - "/assets/css/custom-styles.scss"
 show_excerpts: true
 excerpt_separator: "<!--more-->"
 # plugins:

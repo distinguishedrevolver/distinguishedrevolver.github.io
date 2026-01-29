@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "The Killer Bee Project: Introduction"
+date: 2025-03-18
+tags: [killer-bee-project]
+chronology_order: 1
 ---
 Current (2025) [CMP Service Revolver](https://thecmp.org/competitions/cmp-competitions-rulebooks/) rules are silent with regard to style or weight of projectile to be used for the match. So long as the revolver is chambered "from 9mm/.38 Special to 45," the shooter is free to select either a lead, coated lead, or jacketed bullet in whatever weight they choose in whatever profile they choose. This is quite unlike the [NRA Distinguished Revolver](https://competitions.nra.org/competition-resources/rule-books/) ammunition requirement, where a 38 Special, 158 grain round nose or semi-wadcutter bullet, is de jour.
 
@@ -9,6 +12,9 @@ As a result of the wide latitude in the CMP rules, I started working on what I h
 1. Be accurate.
 2. Be (very) low-recoil.
 3. Be appropriate for new shooters.
+
+
+<!--more-->
 
 In general, none of these goals are surprising. The first item is the de facto standard for choosing your ammunition. The next two items, while certainly not necessary, are "nice to haves." My interest in the second two stems from not only the fact that juniors and competitors with joint damage, strength, or medical issues would appreciate having a low recoil load to practice and compete with; but also would potentially make it possible for them to compete in the first place. Another benefit from low recoiling loads is that they give the shooter a bit more opportunity to see the sights during firing, which helps shot calling development.
 

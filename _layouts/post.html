@@ -12,16 +12,52 @@ layout: default
       </time>
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}
+    </p>
   </header>
+
+  {%- assign current_tag = page.tags | first -%}
+  {%- assign menu_title = current_tag | replace: '-', ' ' | split: ' ' | map: 'capitalize' | join: ' ' %}
+
+  {% if page.tags contains current_tag %}
+  <div class="post-navigation-by-tag">
+    <h2>{{ menu_title }} Killer Bee Posts:</h2>
+    <ul>
+      {% assign posts_with_tag = site.posts | where_exp: "post", "post.tags contains current_tag" | sort: 'date' %}
+      {% for post in posts_with_tag %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
+  {% if site.disqus.shortname %}
+    {% include disqus_comments.html %}
+  {% endif %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<div class="post-navigation-by-tag">
+  {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}" class="previous-post-link nav-link">
+      <div class="nav-arrow">&larr;</div>
+      <div class="nav-text">Previous Post</div>
+      <div class="nav-title">{{ page.previous.title }}</div>
+    </a>
+  {% endif %}
+
+  {% if page.next %}
+    <a href="{{ page.next.url | relative_url }}" class="next-post-link nav-link">
+      <div class="nav-arrow">&rarr;</div>
+      <div class="nav-text">Next Post</div>
+      <div class="nav-title">{{ page.next.title }}</div>
+    </a>
+  {% endif %}
+</div>

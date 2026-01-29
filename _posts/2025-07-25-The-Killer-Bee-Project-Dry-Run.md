@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "The Killer Bee Project: Dry Run"
+date: 2025-07-25
+tags: [killer-bee-project]
+chronology_order: 2
 ---
 ![Expanding Confidence Ellipses by Group](/assets/kbeesscatter.gif)
 

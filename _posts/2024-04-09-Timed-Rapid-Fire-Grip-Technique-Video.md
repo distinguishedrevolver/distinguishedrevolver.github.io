@@ -19,5 +19,5 @@ A couple of points to note:
   <li>In order to make ready for his next round, you'll note how quickly he moves his trigger finger away from the trigger after recoil.</li>
   <li>Watch the move he makes at the backstrap when he is manipulating the hammer between shots.</li>
 </ol>
-
+<br>
 Thanks to Jason for sharing his technique!
